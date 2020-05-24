@@ -60,4 +60,7 @@ p {
   border: 5px #ccc solid;
   padding: 1px;
 }
-
+footer {
+  text-align: right;
+  font-size: 0.8em;
+}
