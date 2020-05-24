@@ -36,11 +36,19 @@ header a {
     text-decoration: none;
 }
 
+#about img {
+  border: 5px solid #98ADA6;
+  margin-top: 0;
+}
+
+section h2 {
+  color: rgb(111, 127, 122);
+  font-size: 2em;
+}
+
 p {
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+  color: rgb(85, 85, 85);
+  font-size: 1em;
+  margin: 0 0 20px 0;
 }
 
