@@ -1,7 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+@font-face {
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
+}
 font-family: 'Baskerville', serif;
 
 /*////////// Global Styles //////////*/
